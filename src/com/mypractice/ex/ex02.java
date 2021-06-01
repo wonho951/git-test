@@ -20,7 +20,7 @@ int[] arrA = new int[3];
 		
 		System.out.println("================");
 		
-		int[] arrB = new int[4]; // int[] arrB = arrA; --> 비교해보기
+		int[] arrB = new int[10]; // int[] arrB = arrA; --> 비교해보기
 								// []안의 값을 A의 방크기보다 크게 줄 경우 방크기에 상관없이
 								// arrA의 값만 복사됨. 나머지는 기본값이라 출력되지 않음.
 		
